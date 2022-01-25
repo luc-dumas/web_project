@@ -1,0 +1,29 @@
+{
+  "name": "web_project",
+  "version": "1.0.0",
+  "description": "<h1>This is my web project.</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucdumas/web_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucdumas/web_project/issues"
+  },
+  "homepage": "https://github.com/lucdumas/web_project#readme",
+  "devDependencies": {
+    "chai": "^4.3.5",
+    "eslint": "^8.7.0",
+    "eslint-plugin-mocha": "^10.0.3",
+    "mocha": "^9.2.0"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  }
+}
